@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: demo-app
-  namespace: day5-handson
+  namespace: day5-handon
 spec:
   selector:
     app: demo-app
